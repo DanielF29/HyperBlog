@@ -1,5 +1,6 @@
 Esta es la historia de como volverse un master en Git
 
-Es algo muuuy muy interesante e importante
+Es algo muuuy muy interesante e importante,
+Siendo hoy Domigo 03/11/2019.
 
 Hoy hablaremos de esa historia
