@@ -19,15 +19,12 @@ body
     padding: 0.5em;
 }
 
-<<<<<<< HEAD
 #cabecera #logo
 {
     width: 20px;
     vertical-align: middle;
 }
 
-=======
->>>>>>> footer
 #cabecera #tagline
 {
     padding: 0 0 0 1em;
@@ -43,17 +40,6 @@ body
     border: 1px solid #DDD;
     margin: 0 auto;
 }
-<<<<<<< HEAD
-#container h1
-{
-    font-size: 20px
-}
-#post
-{
-    background: white;
-    padding: 1em;
-}
-=======
 
 #container h1
 {
@@ -61,6 +47,7 @@ body
 }
 #post
 {
+    background: white;
     padding: 1em;
 }
 
@@ -71,4 +58,3 @@ body
     text-align: center;
     padding: 0.5em;
 }
->>>>>>> footer
