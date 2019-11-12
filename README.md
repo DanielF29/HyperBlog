@@ -2,3 +2,5 @@
 Un Blog increible para el curso de Git y Github de Platzi
 
 Con notas adicionales por aqu&iacute; y por alla para pruebas
+
+Nota2 extras: El curso de Platzi de Git y GitHub incluye ejemplo en Windows Linux y Mac
